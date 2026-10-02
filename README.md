@@ -71,4 +71,6 @@ The final CSV and Excel files will be created in the project folder.
 
 ## Project Purpose
 
-This project was built as practical practice for **Python web scraping and data handling**, including collecting, cleaning, merging, and exporting real-world style e-commerce data.
+
+
+This project is part of my Python web scraping practice.
